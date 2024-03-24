@@ -32,3 +32,8 @@
 
 
 - `kubectl scale deployment --replicas=0 gateway` 
+
+- `kubectl describe pod rabbitmq-0`
+
+- `kubectl delete -f ./`
+    - delete all the resources created with this file
