@@ -29,3 +29,6 @@
 - type `exit` in tht shell to exit out  of it
 
 - we dont need to create a repo in docker hub, it will automatically create the  repo for us in docker hub as soon as we push if  the repo doesnt exist
+
+
+- `kubectl scale deployment --replicas=0 gateway` 
