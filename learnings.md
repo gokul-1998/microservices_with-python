@@ -45,3 +45,7 @@
 
 - pymysql error resolution
     - `https://github.com/PyMySQL/mysqlclient#prerequisites`
+
+- `kubectl scale deployment --replicas=6 service`
+
+- 
